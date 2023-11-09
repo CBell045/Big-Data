@@ -40,7 +40,7 @@ root
 ```
 
 ### 4. Code Snippet of Data Wrangling
-```{python}
+```python
 """ 
 Assumptions: 
 The ratio of Sunday to other days is proportionate for different tracts. 
