@@ -30,7 +30,7 @@ A common abbreviation is ETL, which stands for Extract, Transform, Load. ELT is 
 <br>
 
 ## Task: Create a Data Pipeline
-Our task is to create a data pipeline that will read in data from a CSV file, transform it, and load it into query ready tables.
+Our task is to create a data pipeline that will read in data from a CSV file, transform it, and load it into query ready tables. Then we'll schedule our pipeline with the Databricks Workflow Jobs feature.
 
 We will break out the different steps of our pipeline into different notebooks. 
 
