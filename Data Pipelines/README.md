@@ -5,6 +5,12 @@ Source: [Databricks](https://docs.databricks.com/en/getting-started/data-pipelin
 
 <br>
 
+## Why Data Engineering? 
+Data engineering is the foundation for data science.
+
+![Data Science Venn Diagram](Data_Engineering.png)
+
+
 ## What is a data pipeline? 
 Data pipelines are a process for moving data from sources (like a UI/Application) to targets (like a data warehouse). 
 
@@ -15,7 +21,7 @@ A key feature of data pipelines is automation; data can be loaded in batches or 
 ## What is ETL? 
 A common abbreviation is ETL, which stands for Extract, Transform, Load. ELT is also becoming more popular with cloud warehouses. 
 
-<!-- Insert image here -->
+![ETL Diagram](data-pipeline.png)
 
 ## What are common ETL Tools? 
 - Apache (Airflow, Kafka, Spark)  
